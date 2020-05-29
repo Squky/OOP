@@ -20,3 +20,9 @@ The actions or how an object behaves.
 ## 4 Pillars
 
 ### Abstraction
+
+### Encapsulation
+
+### Inheritance
+
+### Polymorphism  
