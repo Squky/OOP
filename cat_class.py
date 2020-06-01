@@ -29,7 +29,7 @@ class Cat():
     def pet(self):
         return "Yes you are"
 
-    def attri(self):
+    def attri(self):        # Method which creates a dictionary of all the attributes of this class
         attributes ={
             "name" : self.name,
             "age" : self.age,
@@ -40,5 +40,5 @@ class Cat():
 
         }
 
-        for i in attributes:
+        for i in attributes:        ## ...and returns it in a formatted list style to the user
             print(i,": ",attributes[i])
